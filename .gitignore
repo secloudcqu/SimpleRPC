@@ -1,0 +1,12 @@
+# IDE - Idea
+*.iml
+.idea/
+.DS_Store
+# IDE - Eclipse
+.project
+.classpath
+.settings
+
+# maven
+target
+logs

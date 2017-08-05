@@ -7,10 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="rpc-common" />
+        <module name="rpc-remote" />
+        <module name="rpc-rigistry" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="rpc-common" target="1.5" />
+      <module name="rpc-common" target="1.7" />
+      <module name="rpc-remote" target="1.7" />
+      <module name="rpc-rigistry" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

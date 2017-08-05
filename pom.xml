@@ -17,6 +17,8 @@
 
     <modules>
         <module>rpc-common</module>
+        <module>rpc-config</module>
+        <module>rpc-monitor</module>
         <module>rpc-registry</module>
         <module>rpc-remote</module>
     </modules>
@@ -144,6 +146,16 @@
             <dependency>
                 <groupId>com.little.rpc</groupId>
                 <artifactId>rpc-common</artifactId>
+                <version>${rpc.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.little.rpc</groupId>
+                <artifactId>rpc-config</artifactId>
+                <version>${rpc.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.little.rpc</groupId>
+                <artifactId>rpc-monitor</artifactId>
                 <version>${rpc.version}</version>
             </dependency>
             <dependency>

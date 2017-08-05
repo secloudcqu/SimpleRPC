@@ -1,4 +1,4 @@
-package com.little.rpc.protocal;
+package com.little.rpc.protocol;
 
 import java.io.Serializable;
 

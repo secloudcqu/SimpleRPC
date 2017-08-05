@@ -1,4 +1,4 @@
-package com.little.rpc.protocal;
+package com.little.rpc.protocol;
 
 /**
  * Created by shengping.liao on 05/08/2017.

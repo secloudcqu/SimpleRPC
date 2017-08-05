@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.little.rpc</groupId>
-    <artifactId>rpc-rigistry</artifactId>
+    <artifactId>rpc-registry</artifactId>
     <packaging>jar</packaging>
 
 

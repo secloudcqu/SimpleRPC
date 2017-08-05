@@ -9,6 +9,7 @@
         <module name="rpc-common" />
         <module name="rpc-config" />
         <module name="rpc-monitor" />
+        <module name="rpc-registry" />
         <module name="rpc-remote" />
         <module name="rpc-rigistry" />
       </profile>
@@ -17,6 +18,7 @@
       <module name="rpc-common" target="1.7" />
       <module name="rpc-config" target="1.7" />
       <module name="rpc-monitor" target="1.7" />
+      <module name="rpc-registry" target="1.7" />
       <module name="rpc-remote" target="1.7" />
       <module name="rpc-rigistry" target="1.7" />
     </bytecodeTargetLevel>
